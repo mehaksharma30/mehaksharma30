@@ -23,9 +23,7 @@ I'm **Mehak Sharma**, a **Graduate Computer Science student** at Washington Univ
 <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="AWS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" />
-
-<!-- AWS services (fixed) -->
+<img align="left" alt="AWS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="AWS Lambda" width="60px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" />
 <img align="left" alt="Amazon DynamoDB" width="60px" style="padding-right:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazondynamodb.svg" />
 <img align="left" alt="Amazon S3" width="60px" style="padding-right:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazons3.svg" />
