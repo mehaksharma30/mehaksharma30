@@ -31,7 +31,6 @@ I'm **Mehak Sharma**, a **Graduate Computer Science student** at Washington Univ
 
 <!-- GCP (kept) + GKE (fixed) -->
 <img align="left" alt="Google Cloud" width="60px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-<img align="left" alt="Google Kubernetes Engine (GKE)" width="60px" style="padding-right:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlekubernetesengine.svg" />
 
 <br />
 
